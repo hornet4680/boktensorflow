@@ -1,0 +1,33 @@
+ - window 10 cmd
+
+http://thegear.co.kr/10851
+
+ - python 환경변수 설정
+
+https://medium.com/@psychet_learn/python-기초-2장-python-설치-및-환경설정-windows-ver-b030d96bcbd0
+http://dwfox.tistory.com/67
+
+but 나한테는 C:/python3.6이 없어서.. 다음과 같이 경로를 설정함
+C:\ProgramData\Anaconda3
+C:\ProgramData\Anaconda3\Lib
+C:\ProgramData\Anaconda3\libs
+C:\ProgramData\Anaconda3\Scripts
+C:\ProgramData\Anaconda3\Library\bin
+
+이렇게 하면 cmd창에서 python도 실행되고 pip도 실행됨
+
+
+ - ipynb(ipython notebook) 실행법
+
+http://eehoeskrap.tistory.com/141
+
+ - 쥬피터 노트북 단축키
+
+http://dbrang.tistory.com/1174
+
+ - 파일이 안열리거나 하면 무조건 경로나 파일의 용량 파악할 것. 경로가 이상하거나 파일이 변형되어서 안열리는 경우가 태반
+
+ - github 업로드 방법
+
+http://dasomdevdiary.tistory.com/1
+
